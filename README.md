@@ -5,7 +5,7 @@ title: Gabriel Ribeiro
 
 # 👋 Bem-vindo!
 
-Olá, eu sou o Gabriel, sou ex-aluno da EsPCEx e atualmente sou aluno de ADS no IFSP - São Carlos e participo do PET-ADS. Neste repositório tem todo o conteúdo (código) que eu já produzi até hoje.
+Olá, eu sou o Gabriel, sou ex-aluno da EsPCEx e atualmente sou aluno de ADS no IFSP - São Carlos e participo do PET-ADS. Neste repositório tem todo o conteúdo (código) que eu já produzi.
 
 ## 📂 Repositórios
 
